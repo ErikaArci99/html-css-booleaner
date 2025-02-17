@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    background-size: 220px;
+}
+
+#logo{
+    padding-top: 1%;
+    width: 150px;
+}
+
+.container{
+    margin-top: 1%;
+    margin-left: 5px;
+}
+
+.grey-text{
+    color: #A7A7A7;
+}
+
+.blue-text{
+    color: #5CA9C9;
+}
+
+.grey-text-2{
+    color: #A7A7A7;
+    font-size: 10px;
+}
+
+.black-small-text{
+    font-size: 9px;
+}
+
+.yellow-background{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-collapse: collapse;
+    border: none;
+}
+
+.blue-and-white{
+    color: white;
+    background-color: #1DACDF;
+}
+
+.blue-and-black{
+    background-color: #B1E6F2;
+}
+
+.small-row{
+    width: 25%;
+    text-align: left;
+}
+
+.big-row{
+    text-align: left;
+    width: 50%;
+}
+
+#img1{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+
+#img2{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+}
