@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image: url(./img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
     background-size: 220px;
 }
@@ -71,14 +71,14 @@ table{
 
 #img1{
     color: white;
-    background-image: url(./img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     width: 250px;
     height: 200px;
 }
 
 #img2{
     color: white;
-    background-image: url(./img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     width: 250px;
     height: 200px;
 }
